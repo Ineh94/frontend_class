@@ -1,0 +1,25 @@
+
+body{
+    font-size: 0.56;
+    background-color:white;
+    padding: 20px;
+    color: black;
+
+}
+h1{
+    text-align: center;
+    background-color: palevioletred;
+    padding-bottom: 10px;
+    color: white;
+}
+h3{
+    background-color: aqua;
+}
+
+h2{
+    background-color: aqua;
+
+}
+h4{
+    background-color: aqua;
+}

@@ -1,0 +1,36 @@
+{
+    test decoration::-webkit-scrollbar-track
+    color:black
+    test-transformation:none
+    transiction:0.25s ease
+
+}
+
+{
+
+    h1{
+        background-color: #575757;
+        text-align: justify;
+    }
+    ul{
+
+        display:flex
+        flex-wrap:wrap
+        list-style-type: style none;
+
+    }
+
+}
+ul li{
+
+    text-decoration:black
+    margin:0 0.75em 0 0.75em
+    ;
+}
+ul:hover a{
+    color: #575757;
+}
+ul:hover a:hover{
+    color:#8eaafb
+    box- shadow:0 2px 00 current color
+}
